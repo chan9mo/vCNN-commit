@@ -42,7 +42,7 @@ public class Convolution extends CircuitGenerator {
 		/** declare inputs **/
 		inputWires = createInputWireArray(3, "Input Convolution: A(k), B(k), C(k)");
 
-		/** connect gadget: Make a Circuit itself! **/
+		/** connect gadget **/
 
 		Wire a_k = inputWires[0];
 		Wire b_k = inputWires[1];
