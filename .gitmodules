@@ -1,3 +1,3 @@
 [submodule "libsnark"]
 	path = libsnark
-	url = https://github.com/akosba/libsnark
+	url = https://github.com/chan9mo/libsnark-kzg10
